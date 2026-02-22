@@ -1,4 +1,4 @@
-# Academia AcadeMIA
+# Academia Aguia
 
 Sistema de gerenciamento de alunos de academia desenvolvido em Python.
 
